@@ -46,7 +46,7 @@
       <div class="lien">
         <h2><span class="lien">développeur web</span> </h2>
         <h3><a href="https://www.arinfo.fr/formations/metiers-du-web/formation-developpeur-web" class="lien">Formation suivie</a> </h3>
-        <h3><a href="pdf/néel xavier.pdf" class="lien">Télécharger mon cv</a></h3>
+        <h3><a href="pdf/cv.jpg" class="lien">Télécharger mon cv</a></h3>
       </div>
     </div>
   </div>
